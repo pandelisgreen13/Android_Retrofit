@@ -8,3 +8,4 @@ The user can register if he/she doen`t have an account.
 If there is a user with the same email, the user get a toast to change the mail.
 
 If he/she has account can sign in and change the old password with a new.
+[https://user-images.githubusercontent.com/21217572/31634144-1f84e9f6-b2cb-11e7-8984-f96733d253b1.PNG]
